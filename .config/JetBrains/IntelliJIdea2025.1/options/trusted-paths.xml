@@ -1,0 +1,11 @@
+<application>
+  <component name="Trusted.Paths">
+    <option name="TRUSTED_PROJECT_PATHS">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/silly" value="true" />
+        <entry key="$USER_HOME$/Projects/silly" value="true" />
+        <entry key="$USER_HOME$/software/Setzer" value="true" />
+      </map>
+    </option>
+  </component>
+</application>

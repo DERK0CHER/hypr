@@ -1,0 +1,214 @@
+<application>
+  <component name="ActionsLocalSummary">
+    <e n="$Paste">
+      <i c="1" l="1746796083906" />
+    </e>
+    <e n="$SelectAll">
+      <i c="3" l="1746908700942" />
+    </e>
+    <e n="$Undo">
+      <i c="100" l="1746795692544" />
+    </e>
+    <e n="AIAssistant.In.Editor.Diff.Toolbar.Accept">
+      <i c="2" l="1746794870022" />
+    </e>
+    <e n="AIAssistant.ToolWindow.Chat.Copy.Chameleon">
+      <i c="2" l="1747343334074" />
+    </e>
+    <e n="AIAssistant.ToolWindow.Chat.Custom.Select.All">
+      <i c="1" l="1747343333403" />
+    </e>
+    <e n="AIAssistant.ToolWindow.Message.Toolbar.Extended.More">
+      <i c="1" l="1746794850686" />
+    </e>
+    <e n="AIAssistant.ToolWindow.Snippet.Apply.Smart">
+      <i c="10" l="1746907345225" />
+    </e>
+    <e n="AIAssistant.ToolWindow.Snippet.RunSnippet">
+      <i c="1" l="1746883355031" />
+    </e>
+    <e n="AIAssistantHubPopupAction">
+      <i c="3" l="1746901028025" />
+    </e>
+    <e n="ActivateBookmarksToolWindow">
+      <i c="1" l="1746887801401" />
+    </e>
+    <e n="ActivateProjectToolWindow">
+      <i c="2" l="1746887802319" />
+    </e>
+    <e n="CopyAbsolutePath">
+      <i c="1" l="1746783528331" />
+    </e>
+    <e n="CopyFileName">
+      <i c="1" l="1746908785854" />
+    </e>
+    <e n="CopyReferencePopupGroup">
+      <i c="2" l="1746908780033" />
+    </e>
+    <e n="Debug">
+      <i c="4" l="1746883670030" />
+    </e>
+    <e n="DebugClass">
+      <i c="1" l="1746901528962" />
+    </e>
+    <e n="EditorBackSpace">
+      <i c="269" l="1747343791406" />
+    </e>
+    <e n="EditorChooseLookupItemReplace">
+      <i c="5" l="1746784623447" />
+    </e>
+    <e n="EditorCopy">
+      <i c="8" l="1746902629886" />
+    </e>
+    <e n="EditorDelete">
+      <i c="48" l="1746796015218" />
+    </e>
+    <e n="EditorDown">
+      <i c="3" l="1746795182190" />
+    </e>
+    <e n="EditorEnter">
+      <i c="31" l="1747343871290" />
+    </e>
+    <e n="EditorEscape">
+      <i c="20" l="1746881432771" />
+    </e>
+    <e n="EditorLeft">
+      <i c="16" l="1746883599312" />
+    </e>
+    <e n="EditorPaste">
+      <i c="21" l="1747343777834" />
+    </e>
+    <e n="EditorRight">
+      <i c="2" l="1746795155090" />
+    </e>
+    <e n="EditorUp">
+      <i c="6" l="1746795767930" />
+    </e>
+    <e n="GotoAction">
+      <i c="1" l="1746796016382" />
+    </e>
+    <e n="HideAllWindows">
+      <i c="3" l="1746908787534" />
+    </e>
+    <e n="LocalHistory.ShowHistory">
+      <i c="1" l="1746795894230" />
+    </e>
+    <e n="NewModuleInGroup">
+      <i c="1" l="1746795719573" />
+    </e>
+    <e n="OpenFile">
+      <i c="1" l="1746957406223" />
+    </e>
+    <e n="OptimizeImports">
+      <i c="2" l="1746784331681" />
+    </e>
+    <e n="RedesignedRunConfigurationSelector">
+      <i c="13" l="1746897226114" />
+    </e>
+    <e n="RenameElement">
+      <i c="3" l="1746795801061" />
+    </e>
+    <e n="Rerun">
+      <i c="1" l="1746796106675" />
+    </e>
+    <e n="Run">
+      <i c="48" l="1746908708408" />
+    </e>
+    <e n="RunClass">
+      <i c="1" l="1746901524602" />
+    </e>
+    <e n="SaveAll">
+      <i c="13" l="1746908704386" />
+    </e>
+    <e n="ShowProjectStructureSettings">
+      <i c="2" l="1746783553075" />
+    </e>
+    <e n="ShowSettings">
+      <i c="3" l="1746796046340" />
+    </e>
+    <e n="Stop">
+      <i c="2" l="1746884479151" />
+    </e>
+    <e n="Tree-selectAll">
+      <i c="1" l="1746783576842" />
+    </e>
+    <e n="Vcs.VcsClone">
+      <i c="1" l="1746783158040" />
+    </e>
+    <e n="WelcomeScreen.OpenProject">
+      <i c="3" l="1747343267853" />
+    </e>
+    <e n="com.intellij.codeInsight.daemon.NavigateAction">
+      <i c="1" l="1746795829879" />
+    </e>
+    <e n="com.intellij.execution.lineMarker.LineMarkerActionWrapper">
+      <i c="1" l="1746901404689" />
+    </e>
+    <e n="com.intellij.execution.ui.RunToolbarPopupKt$createCurrentFileWithInlineActions$2">
+      <i c="2" l="1746897227006" />
+    </e>
+    <e n="com.intellij.lang.documentation.ide.ui.DocumentationPopupUI$OpenInToolwindowAction">
+      <i c="1" l="1746794989380" />
+    </e>
+    <e n="com.intellij.ml.llm.core.chat.ui.chat.ScrollPaneFollowButton$1">
+      <i c="2" l="1746907347863" />
+    </e>
+    <e n="com.intellij.ml.llm.core.codeGeneration.popup.AcceptAction">
+      <i c="6" l="1746907354247" />
+    </e>
+    <e n="com.intellij.ml.llm.core.codeGeneration.popup.DiscardAction">
+      <i c="1" l="1746784592266" />
+    </e>
+    <e n="com.intellij.notification.NotificationAction$Simple">
+      <i c="4" l="1747343252751" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.AnActionWrapper">
+      <i c="413" l="1747343321113" />
+    </e>
+    <e n="com.intellij.openapi.actionSystem.impl.MoreActionGroup">
+      <i c="1" l="1746794986530" />
+    </e>
+    <e n="com.intellij.openapi.fileEditor.impl.tabActions.CloseTab">
+      <i c="4" l="1746957451837" />
+    </e>
+    <e n="com.intellij.openapi.project.DumbAwareAction$SimpleDumbAwareAction">
+      <i c="3" l="1747343779178" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.actions.ToggleSourcesStateAction">
+      <i c="1" l="1746783578387" />
+    </e>
+    <e n="com.intellij.openapi.roots.ui.configuration.projectRoot.JdkListConfigurable$AddSdkAction">
+      <i c="1" l="1746783276942" />
+    </e>
+    <e n="com.intellij.openapi.ui.DialogWrapper$5">
+      <i c="2" l="1746963714435" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.SquareAnActionButton">
+      <i c="6" l="1747343400050" />
+    </e>
+    <e n="com.intellij.openapi.wm.impl.customFrameDecorations.header.toolbar.MainMenuButton$ShowMenuAction">
+      <i c="5" l="1746796043920" />
+    </e>
+    <e n="com.intellij.toolWindow.ToolWindowHeader$HideAction">
+      <i c="1" l="1746901313312" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$AddButton">
+      <i c="2" l="1746883575812" />
+    </e>
+    <e n="com.intellij.ui.CommonActionsPanel$RemoveButton">
+      <i c="1" l="1746883645751" />
+    </e>
+    <e n="com.jetbrains.python.debugger.PyCythonExtensionWarning$2">
+      <i c="1" l="1746901537001" />
+    </e>
+    <e n="com.maddyhome.idea.vim.group.NotificationService$notifyAboutShortcutConflict$2">
+      <i c="1" l="1746795995606" />
+    </e>
+    <e n="com.maddyhome.idea.vim.ui.ex.ExShortcutKeyAction">
+      <i c="6" l="1746795188193" />
+    </e>
+    <e n="editRunConfigurations">
+      <i c="4" l="1746883623357" />
+    </e>
+  </component>
+</application>

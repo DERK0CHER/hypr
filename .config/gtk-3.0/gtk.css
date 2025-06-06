@@ -1,3 +1,4 @@
+
 /*
 Generated with Gradience
 
@@ -5,6 +6,8 @@ Issues caused by theming should be reported to Gradience repository, and not to 
 
 https://github.com/GradienceTeam/Gradience
 */
+[Settings]
+gtk-icon-theme-name = Adwaita
 
 @define-color theme_fg_color #AEE5FA;
 @define-color theme_text_color #AEE5FA;
@@ -130,5 +133,67 @@ https://github.com/GradienceTeam/Gradience
 @define-color sidebar_backdrop_color @sidebar_bg_color;
 
 .navigation-sidebar {
-background-color: #131313;
+background-color: rgba(0, 0, 0, 0.5);
+}
+
+
+/* Styling for Thunar - with stronger selectors */
+window.thunar *, 
+.thunar .view, 
+.thunar treeview, 
+.thunar iconview {
+    background-color: #1a1b26;
+    color: #AEE5FA;
+}
+
+/* Thunar sidebar */
+.thunar placessidebar, 
+.thunar .sidebar, 
+.thunar .sidebar * {
+    background-color: #131313;
+    color: #AEE5FA;
+}
+
+/* Selected items */
+.thunar .view:selected,
+.thunar row:selected,
+.thunar treeview:selected {
+    background: linear-gradient(180deg, rgba(26, 27, 38, 1), rgba(30, 30, 46, 1));
+    color: #AEE5FA;
+}
+
+/* Thunar header and toolbar */
+.thunar headerbar, 
+.thunar toolbar, 
+.thunar actionbar {
+    background: linear-gradient(180deg, rgba(26, 27, 38, 1), rgba(30, 30, 46, 1));
+    color: #AEE5FA;
+}
+
+/* For buttons and other elements */
+button, entry, combobox {
+    background-color: #24283b;
+    color: #AEE5FA;
+}
+
+/* For hover effects */
+button:hover {
+    background-color: #292e42;
+}
+/* Make folder icons semi-transparent */
+.thunar iconview.view image,
+.thunar treeview.view image {
+    opacity: 0.7; /* Adjust value between 0.5-0.8 for desired transparency */
+}
+
+/* Optional: Make icons more visible on hover */
+.thunar iconview.view:hover image,
+.thunar treeview.view:hover image {
+    opacity: 1.0;
+}
+
+/* Optional: Make selected folder icons fully visible */
+.thunar iconview.view:selected image,
+.thunar treeview.view:selected image {
+    opacity: 1.0;
 }

@@ -1,0 +1,12 @@
+# name      | key      | body
+# --------------------------------------------
+bold        | b        | \\textbf{•}
+italic      | i        | \\textit{•}
+underline   | u        | \\underline{•}
+math_inline | m        | $•$
+math_disp   | <Control><Shift>M> | \\[•\\]
+frac        | f        | \\frac{•}{•}
+item        | <Alt>i   | \\item •
+enum        | <Alt>e   | \\begin{enumerate}\n\t\\item •\n\\end{enumerate}
+fig         | g        | \\begin{figure}[h]\n\t\\centering\n\t\\includegraphics[width=0.8\\linewidth]{•}\n\t\\caption{•}\n\\end{figure}
+rip	    | x	       | \\rip

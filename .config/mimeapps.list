@@ -1,0 +1,5 @@
+[Default Applications]
+text/calendar=org.gnome.Calendar.desktop
+
+[Added Associations]
+image/jpeg=gliv.desktop;org.gnome.Zenity.desktop;swappy.desktop;

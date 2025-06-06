@@ -1,0 +1,143 @@
+<application>
+  <component name="VimHistorySettings">
+    <history>
+      <history-cmd>
+        <entry encoding="base64">dw==</entry>
+      </history-cmd>
+    </history>
+  </component>
+  <component name="VimJumpsSettings">
+    <project id="silly-33fe4d9d">
+      <jump line="36" column="5" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document.py" protocol="file" />
+      <jump line="39" column="5" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document.py" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document_controller.py" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document_controller.py" protocol="file" />
+      <jump line="24" column="5" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document_controller.py" protocol="file" />
+      <jump line="25" column="5" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document_controller.py" protocol="file" />
+      <jump line="25" column="14" filename="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document.py" protocol="file" />
+      <jump line="20" column="8" filename="$USER_HOME$/IdeaProjects/silly/main.py" protocol="file" />
+      <jump line="971" column="8" filename="$USER_HOME$/.local/lib/python3.13/site-packages/gi-stubs/repository/Gio.pyi" protocol="file" />
+      <jump line="102" column="12" filename="$USER_HOME$/IdeaProjects/silly/main.py" protocol="file" />
+      <jump line="105" column="22" filename="$USER_HOME$/IdeaProjects/silly/main.py" protocol="file" />
+      <jump line="22" column="45" filename="$USER_HOME$/IdeaProjects/silly/main.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/silly/setzer/app/__init__.py" protocol="file" />
+      <jump line="0" column="0" filename="$USER_HOME$/IdeaProjects/silly/setzer/app/service_locator.py" protocol="file" />
+      <jump line="27" column="0" filename="$USER_HOME$/IdeaProjects/silly/setzer/app/service_locator.py" protocol="file" />
+      <jump line="22" column="5" filename="$USER_HOME$/IdeaProjects/silly/setzer/app/service_locator.py" protocol="file" />
+      <jump line="26" column="0" filename="$USER_HOME$/IdeaProjects/silly/setzer/app/service_locator.py" protocol="file" />
+      <jump line="25" column="0" filename="$USER_HOME$/IdeaProjects/silly/setzer/app/service_locator.py" protocol="file" />
+    </project>
+  </component>
+  <component name="VimMarksSettings">
+    <globalmarks />
+    <localmarks>
+      <file name="/AIAssistantInput-b7aa8dc9-9004-460c-ab62-e5eb9a893ac7.chatInput" timestamp="1746784243121">
+        <mark key="&quot;" line="0" column="45" />
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/silly/setzer/app/service_locator.py" timestamp="1746796029925">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/AIAssistantInput-38c9fa38-c4aa-449a-8877-4d7fd6fd98a0.chatInput" timestamp="1746794954176">
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/AIAssistantInput-6ba42b79-1274-4973-a059-913685c77977.chatInput" timestamp="1746794848058">
+        <mark key="&quot;" line="0" column="1" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/silly/Setzer2/document/document_controller.py" timestamp="1746795186846">
+        <mark key="'" line="24" column="5" />
+        <mark key="[" line="25" column="18" />
+        <mark key="]" line="24" column="6" />
+        <mark key="." line="24" column="5" />
+        <mark key="^" line="24" column="6" />
+      </file>
+      <file name="/AIAssistantInput-1879bb43-c18c-47f5-ac32-c1b7a4a80017.chatInput" timestamp="1746794953907">
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="/AIAssistantInput-ce83cf50-0908-4fa0-9215-5580aa72746e.chatInput" timestamp="1746784562192">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="/AIAssistantInput-ab942499-a0b1-4ed1-8dd8-69cb7d19c76c.chatInput" timestamp="1746784366469">
+        <mark key="&quot;" line="0" column="65" />
+        <mark key="[" line="0" column="0" />
+        <mark key="]" line="0" column="0" />
+        <mark key="^" line="0" column="0" />
+        <mark key="." line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/IdeaProjects/silly/Setzer2/main.py" timestamp="1746795749549">
+        <mark key="&quot;" line="23" column="0" />
+        <mark key="[" line="23" column="6" />
+      </file>
+      <file name="$USER_HOME$/.local/lib/python3.13/site-packages/gi-stubs/repository/Gio.pyi" timestamp="1746795920536">
+        <mark key="&quot;" line="971" column="8" />
+      </file>
+    </localmarks>
+  </component>
+  <component name="VimRegisterSettings">
+    <registers>
+      <register name="&quot;" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="-" type="CHARACTER_WISE">
+        <text encoding="base64">dA==</text>
+      </register>
+      <register name="." type="CHARACTER_WISE">
+        <text encoding="base64" />
+      </register>
+      <register name="0" type="LINE_WISE">
+        <text encoding="base64">VHJhY2ViYWNrIChtb3N0IHJlY2VudCBjYWxsIGxhc3QpOgogIEZpbGUgIi9ob21lL3h4eC9JZGVhUHJvamVjdHMvc2lsbHkvU2V0emVyMi9kb2N1bWVudC9kb2N1bWVudC5weSIsIGxpbmUgMjYsIGluIDxtb2R1bGU+CiAgICBmcm9tIC4gaW1wb3J0IGRvY3VtZW50X2NvbnRyb2xsZXIKSW1wb3J0RXJyb3I6IGF0dGVtcHRlZCByZWxhdGl2ZSBpbXBvcnQgd2l0aCBubyBrbm93biBwYXJlbnQgcGFja2FnZQo=</text>
+      </register>
+      <register name="1" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="2" type="LINE_WISE">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="LINE_WISE">
+        <text encoding="base64">IyEvdXNyL2Jpbi9lbnYgcHl0aG9uMwojIGNvZGluZzogdXRmLTgKCiMgQ29weXJpZ2h0IChDKSAyMDE3LXByZXNlbnQgUm9iZXJ0IEdyaWVzZWwKIyBUaGlzIHByb2dyYW0gaXMgZnJlZSBzb2Z0d2FyZTogeW91IGNhbiByZWRpc3RyaWJ1dGUgaXQgYW5kL29yIG1vZGlmeQojIGl0IHVuZGVyIHRoZSB0ZXJtcyBvZiB0aGUgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgYXMgcHVibGlzaGVkIGJ5CiMgdGhlIEZyZWUgU29mdHdhcmUgRm91bmRhdGlvbiwgZWl0aGVyIHZlcnNpb24gMyBvZiB0aGUgTGljZW5zZSwgb3IKIyAoYXQgeW91ciBvcHRpb24pIGFueSBsYXRlciB2ZXJzaW9uLgojIAojIFRoaXMgcHJvZ3JhbSBpcyBkaXN0cmlidXRlZCBpbiB0aGUgaG9wZSB0aGF0IGl0IHdpbGwgYmUgdXNlZnVsLAojIGJ1dCBXSVRIT1VUIEFOWSBXQVJSQU5UWTsgd2l0aG91dCBldmVuIHRoZSBpbXBsaWVkIHdhcnJhbnR5IG9mCiMgTUVSQ0hBTlRBQklMSVRZIG9yIEZJVE5FU1MgRk9SIEEgUEFSVElDVUxBUiBQVVJQT1NFLiBTZWUgdGhlCiMgR05VIEdlbmVyYWwgUHVibGljIExpY2Vuc2UgZm9yIG1vcmUgZGV0YWlscy4KIyAKIyBZb3Ugc2hvdWxkIGhhdmUgcmVjZWl2ZWQgYSBjb3B5IG9mIHRoZSBHTlUgR2VuZXJhbCBQdWJsaWMgTGljZW5zZQojIGFsb25nIHdpdGggdGhpcyBwcm9ncmFtLiBJZiBub3QsIHNlZSA8aHR0cDovL3d3dy5nbnUub3JnL2xpY2Vuc2VzLz4KCmltcG9ydCBnaQpnaS5yZXF1aXJlX3ZlcnNpb24oJ0d0a1NvdXJjZScsICc1JykKZnJvbSBnaS5yZXBvc2l0b3J5IGltcG9ydCBHdGtTb3VyY2UKZnJvbSBnaS5yZXBvc2l0b3J5IGltcG9ydCBHTGliCgppbXBvcnRpbXBvcnRpbXBvcnQgcmUKaW1wb3J0IG9zLCBvcy5wYXRoCmltcG9ydCB4bWwuZXRyZWUuRWxlbWVudFRyZWUgYXMgRVQKCnIKCgpjbGFzcyBTZXJ2aWNlTG9jYXRvcigpOgoKICAgIG1haW5fd2luZG93ID0gTm9uZQogICAgd29ya3NwYWNlID0gTm9uZQogICAgc2V0dGluZ3MgPSBOb25lCiAgICBzZXR6ZXJfdmVyc2lvbiA9IE5vbmUKICAgIHJlc291cmNlc19wYXRoID0gTm9uZQogICAgYXBwX2ljb25zX3BhdGggPSBOb25lCiAgICBpbmNyZW1lbnRzID0gZGljdCgpCiAgICByZWdleGVzID0gZGljdCgpCiAgICBzb3VyY2VfbGFuZ3VhZ2VfbWFuYWdlciA9IE5vbmUKICAgIHNvdXJjZV9zdHlsZV9zY2hlbWVfbWFuYWdlciA9IE5vbmUKCiAgICBkZWYgc2V0X21haW5fd2luZG93KG1haW5fd2luZG93KToKICAgICAgICBTZXJ2aWNlTG9jYXRvci5tYWluX3dpbmRvdyA9IG1haW5fd2luZG93CgogICAgZGVmIGdldF9tYWluX3dpbmRvdygpOgogICAgICAgIHJldHVybiBTZXJ2aWNlTG9jYXRvci5tYWluX3dpbmRvdwoKICAgIGRlZiBzZXRfd29ya3NwYWNlKHdvcmtzcGFjZSk6CiAgICAgICAgU2VydmljZUxvY2F0b3Iud29ya3NwYWNlID0gd29ya3NwYWNlCgogICAgZGVmIGdldF93b3Jrc3BhY2UoKToKICAgICAgICByZXR1cm4gU2VydmljZUxvY2F0b3Iud29ya3NwYWNlCgogICAgZGVmIGdldF9pbmNyZW1lbnQoa2V5KToKICAgICAgICBpZiBrZXkgbm90IGluIFNlcnZpY2VMb2NhdG9yLmluY3JlbWVudHM6CiAgICAgICAgICAgIFNlcnZpY2VMb2NhdG9yLmluY3JlbWVudHNba2V5XSA9IDAKICAgICAgICBTZXJ2aWNlTG9jYXRvci5pbmNyZW1lbnRzW2tleV0gKz0gMQogICAgICAgIHJldHVybiBTZXJ2aWNlTG9jYXRvci5pbmNyZW1lbnRzW2tleV0KCiAgICBkZWYgZ2V0X3JlZ2V4X29iamVjdChwYXR0ZXJuKToKICAgICAgICBpZiBwYXR0ZXJuIGluIFNlcnZpY2VMb2NhdG9yLnJlZ2V4ZXM6CiAgICAgICAgICAgIHJldHVybiBTZXJ2aWNlTG9jYXRvci5yZWdleGVzW3BhdHRlcm5dCiAgICAgICAgZWxzZToKICAgICAgICAgICAgcmVnZXggPSByZS5jb21waWxlKHBhdHRlcm4pCiAgICAgICAgICAgIFNlcnZpY2VMb2NhdG9yLnJlZ2V4ZXNbcGF0dGVybl0gPSByZWdleAogICAgICAgICAgICByZXR1cm4gcmVnZXgKCiAgICBkZWYgZ2V0X3NldHRpbmdzKCk6CiAgICAgICAgaWYgU2VydmljZUxvY2F0b3Iuc2V0dGluZ3MgPT0gTm9uZToKICAgICAgICAgICAgU2VydmljZUxvY2F0b3Iuc2V0dGluZ3MgPSBzZXR0aW5nc2NvbnRyb2xsZXIuU2V0dGluZ3MoU2VydmljZUxvY2F0b3IuZ2V0X2NvbmZpZ19mb2xkZXIoKSkKICAgICAgICByZXR1cm4gU2VydmljZUxvY2F0b3Iuc2V0dGluZ3MKCiAgICBkZWYgZ2V0X2NvbmZpZ19mb2xkZXIoKToKICAgICAgICByZXR1cm4gb3MucGF0aC5qb2luKEdMaWIuZ2V0X3VzZXJfY29uZmlnX2RpcigpLCAnc2V0emVyJykKCiAgICBkZWYgc2V0X3NldHplcl92ZXJzaW9uKHNldHplcl92ZXJzaW9uKToKICAgICAgICBTZXJ2aWNlTG9jYXRvci5zZXR6ZXJfdmVyc2lvbiA9IHNldHplcl92ZXJzaW9uCgogICAgZGVmIGdldF9zZXR6ZXJfdmVyc2lvbigpOgogICAgICAgIHJldHVybiBTZXJ2aWNlTG9jYXRvci5zZXR6ZXJfdmVyc2lvbgoKICAgIGRlZiBzZXRfcmVzb3VyY2VzX3BhdGgocmVzb3VyY2VzX3BhdGgpOgogICAgICAgIFNlcnZpY2VMb2NhdG9yLnJlc291cmNlc19wYXRoID0gcmVzb3VyY2VzX3BhdGgKCiAgICBkZWYgZ2V0X3Jlc291cmNlc19wYXRoKCk6CiAgICAgICAgcmV0dXJuIFNlcnZpY2VMb2NhdG9yLnJlc291cmNlc19wYXRoCgogICAgZGVmIHNldF9hcHBfaWNvbnNfcGF0aChhcHBfaWNvbnNfcGF0aCk6CiAgICAgICAgU2VydmljZUxvY2F0b3IuYXBwX2ljb25zX3BhdGggPSBhcHBfaWNvbnNfcGF0aAoKICAgIGRlZiBnZXRfYXBwX2ljb25zX3BhdGgoKToKICAgICAgICByZXR1cm4gU2VydmljZUxvY2F0b3IuYXBwX2ljb25zX3BhdGgKCiAgICBkZWYgZ2V0X3NvdXJjZV9sYW5ndWFnZV9tYW5hZ2VyKCk6CiAgICAgICAgaWYgU2VydmljZUxvY2F0b3Iuc291cmNlX2xhbmd1YWdlX21hbmFnZXIgPT0gTm9uZToKICAgICAgICAgICAgU2VydmljZUxvY2F0b3Iuc291cmNlX2xhbmd1YWdlX21hbmFnZXIgPSBHdGtTb3VyY2UuTGFuZ3VhZ2VNYW5hZ2VyKCkKICAgICAgICAgICAgcGF0aCA9IG9zLnBhdGguam9pbihTZXJ2aWNlTG9jYXRvci5nZXRfcmVzb3VyY2VzX3BhdGgoKSwgJ2xhbmd1YWdlLXNwZWNzJykKICAgICAgICAgICAgU2VydmljZUxvY2F0b3Iuc291cmNlX2xhbmd1YWdlX21hbmFnZXIuc2V0X3NlYXJjaF9wYXRoKChwYXRoLCkpCiAgICAgICAgcmV0dXJuIFNlcnZpY2VMb2NhdG9yLnNvdXJjZV9sYW5ndWFnZV9tYW5hZ2VyCgogICAgZGVmIGdldF9zb3VyY2Vfc3R5bGVfc2NoZW1lX21hbmFnZXIoKToKICAgICAgICBpZiBTZXJ2aWNlTG9jYXRvci5zb3VyY2Vfc3R5bGVfc2NoZW1lX21hbmFnZXIgPT0gTm9uZToKICAgICAgICAgICAgU2VydmljZUxvY2F0b3Iuc291cmNlX3N0eWxlX3NjaGVtZV9tYW5hZ2VyID0gR3RrU291cmNlLlN0eWxlU2NoZW1lTWFuYWdlcigpCiAgICAgICAgICAgIHBhdGgxID0gb3MucGF0aC5qb2luKFNlcnZpY2VMb2NhdG9yLmdldF9yZXNvdXJjZXNfcGF0aCgpLCAndGhlbWVzJykKICAgICAgICAgICAgaWYgbm90IG9zLnBhdGguaXNkaXIob3MucGF0aC5qb2luKFNlcnZpY2VMb2NhdG9yLmdldF9jb25maWdfZm9sZGVyKCksICd0aGVtZXMnKSk6CiAgICAgICAgICAgICAgICBvcy5ta2Rpcihvcy5wYXRoLmpvaW4oU2VydmljZUxvY2F0b3IuZ2V0X2NvbmZpZ19mb2xkZXIoKSwgJ3RoZW1lcycpKQogICAgICAgICAgICBwYXRoMiA9IG9zLnBhdGguam9pbihTZXJ2aWNlTG9jYXRvci5nZXRfY29uZmlnX2ZvbGRlcigpLCAndGhlbWVzJykKICAgICAgICAgICAgU2VydmljZUxvY2F0b3Iuc291cmNlX3N0eWxlX3NjaGVtZV9tYW5hZ2VyLnNldF9zZWFyY2hfcGF0aCgocGF0aDEsIHBhdGgyKSkKICAgICAgICByZXR1cm4gU2VydmljZUxvY2F0b3Iuc291cmNlX3N0eWxlX3NjaGVtZV9tYW5hZ2VyCgogICAgZGVmIGdldF9zb3VyY2VfbGFuZ3VhZ2UobGFuZ3VhZ2UpOgogICAgICAgIHNvdXJjZV9sYW5ndWFnZV9tYW5hZ2VyID0gU2VydmljZUxvY2F0b3IuZ2V0X3NvdXJjZV9sYW5ndWFnZV9tYW5hZ2VyKCkKICAgICAgICBpZiBsYW5ndWFnZSA9PSAnYmlidGV4JzogcmV0dXJuIHNvdXJjZV9sYW5ndWFnZV9tYW5hZ2VyLmdldF9sYW5ndWFnZSgnYmlidGV4JykKICAgICAgICBlbHNlOiByZXR1cm4gc291cmNlX2xhbmd1YWdlX21hbmFnZXIuZ2V0X2xhbmd1YWdlKCdsYXRleCcpCgogICAgZGVmIGdldF9zdHlsZV9zY2hlbWUoKToKICAgICAgICBuYW1lID0gU2VydmljZUxvY2F0b3IuZ2V0X3NldHRpbmdzKCkuZ2V0X3ZhbHVlKCdwcmVmZXJlbmNlcycsICdjb2xvcl9zY2hlbWUnKQogICAgICAgIHJldHVybiBTZXJ2aWNlTG9jYXRvci5nZXRfc291cmNlX3N0eWxlX3NjaGVtZV9tYW5hZ2VyKCkuZ2V0X3NjaGVtZShuYW1lKQo=</text>
+      </register>
+      <register name="4" type="BLOCK_WISE">
+        <text encoding="base64">IAogCiA=</text>
+      </register>
+      <register name="5" type="BLOCK_WISE">
+        <text encoding="base64">ZnJvbQpmcm9tCmZyb20=</text>
+      </register>
+      <register name="6" type="BLOCK_WISE">
+        <text encoding="base64">c2V0emVyCnNldHplcgpzZXR6ZXI=</text>
+      </register>
+      <register name="7" type="BLOCK_WISE">
+        <text encoding="base64">ZnJvbSAuCmZyb20gLgpmcm9tIC4=</text>
+      </register>
+      <register name="8" type="BLOCK_WISE">
+        <text encoding="base64">c2V0emVyLgpzZXR6ZXIuCnNldHplci4Kc2V0emVyLgpzZXR6ZXIuCnNldHplci4Kc2V0emVyLgpzZXR6ZXIuCnNldHplci4Kc2V0emVyLg==</text>
+      </register>
+      <register name=":" type="CHARACTER_WISE">
+        <text encoding="base64">dw==</text>
+      </register>
+    </registers>
+  </component>
+  <component name="VimSearchSettings">
+    <search>
+      <last-offset encoding="base64" />
+      <last-dir encoding="base64">MQ==</last-dir>
+      <show-last encoding="base64">ZmFsc2U=</show-last>
+    </search>
+  </component>
+  <component name="VimVariables">
+    <vim-variables>
+      <variable key="widget_mode_theme_dark" value="Dracula" type="string" />
+    </vim-variables>
+  </component>
+</application>

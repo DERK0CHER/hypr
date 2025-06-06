@@ -1,0 +1,57 @@
+<application>
+  <component name="RecentProjectsManager">
+    <option name="additionalInfo">
+      <map>
+        <entry key="$USER_HOME$/IdeaProjects/silly">
+          <value>
+            <RecentProjectMetaInfo frameTitle="silly – preview_panel_viewgtk.py" projectWorkspaceId="2wqy3mKtPfWvIopdw8D19wIiJMW">
+              <option name="activationTimestamp" value="1746957436701" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-251.25410.109" />
+              <option name="buildTimestamp" value="1746592980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="1" />
+              </option>
+              <frame x="0" y="54" width="2560" height="1609" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1746784161448" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/software/Setzer">
+          <value>
+            <RecentProjectMetaInfo frameTitle="Setzer – setzer.in" projectWorkspaceId="2wwfDup4D17q8A94Ylj20pDeZny">
+              <option name="activationTimestamp" value="1746963714543" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-251.25410.109" />
+              <option name="buildTimestamp" value="1746592980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="2" />
+              </option>
+              <frame x="0" y="54" width="2560" height="1609" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1746957440436" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+        <entry key="$USER_HOME$/Projects/silly">
+          <value>
+            <RecentProjectMetaInfo frameTitle="silly – README.md" opened="true" projectWorkspaceId="2x9HHG0UBZtdM05ZWoXc0EhEyzU">
+              <option name="activationTimestamp" value="1747343929936" />
+              <option name="binFolder" value="$APPLICATION_HOME_DIR$/bin" />
+              <option name="build" value="IU-251.25410.109" />
+              <option name="buildTimestamp" value="1746592980000" />
+              <option name="colorInfo">
+                <RecentProjectColorInfo associatedIndex="3" />
+              </option>
+              <frame x="0" y="0" width="1280" height="832" />
+              <option name="productionCode" value="IU" />
+              <option name="projectOpenTimestamp" value="1747343281976" />
+            </RecentProjectMetaInfo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="lastOpenedProject" value="$USER_HOME$/Projects/silly" />
+  </component>
+</application>

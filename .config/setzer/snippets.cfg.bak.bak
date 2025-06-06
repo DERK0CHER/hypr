@@ -1,0 +1,146 @@
+[snippets]
+
+# Enumerate environment
+enum = <Shift><Alt>e,Enumerate,\begin{enumerate}[label=(\roman*)]\n\t\\item •\n\end{enumerate}\n•
+
+# Item
+item = ,Item,\\item •
+
+# Numbered equation
+equation = <Shift><Alt>adiaeresis,Equation,\begin{equation}\\label{•}\n•\n\end{equation}\n•
+
+# Unnumbered split equation
+eq = <Shift><Alt>odiaeresis,UnnumberedEquation,\begin{equation*}\n\begin{split}\n•\n= \\;&\n•\n\end{split}\n\end{equation*}\n•
+
+# Fraction
+fraction = <Shift><Alt>f,Fraction,\\frac{•}{•}•
+
+# Superscript
+upper = <Shift><Alt>u,Upper,^{•}•
+
+# Subscript
+lower = <Shift><Alt>j,Lower,_{•}•
+
+# Inline math
+math = <Shift><Alt>m,Math,$•$•
+
+# Integral
+integral = <Shift><Alt>i,Integral,\int^{•}_{•} • \,d•
+
+# Text in math
+text = <Shift><Alt>t,Text,\; \text{ • } \; •
+
+# Braces
+braces = <Shift><Alt>b,Braces,\{ • \} •
+
+# Mathcal font
+cal = <Shift><Alt>c,Mathcal,\mathcal{•}•
+
+# X arrow
+xrightarrow = <Shift><Alt>x,Xarrow,\xrightarrow{•}•
+
+# Root
+root = <Shift><Alt>r,Root,\sqrt{•}•
+
+# Parentheses
+parentheses = <Shift><Alt>h,Parentheses,(•)•
+
+# Proof environment
+proof = <Shift><Alt>p,Proof,\begin{proof}\n•\n\end{proof}
+
+# Equivalence arrow
+equivalence = <Shift><Alt>g,Equivalence,\Longleftrightarrow
+
+# Long arrow
+rightarrow = <Shift><Alt>underscore,Arrow,\longrightarrow •
+
+# Overset
+overset = <Shift><Alt>o,Overset,\overset{•}{•}•
+
+# Cases matrix
+dafds = <Shift><Alt>d,Cases,\left\{\n\begin{matrix*}[l]\n•  &  \;\text{•}\;  &  • \\\\n•  &  \;\text{•}\;  &  • \\\\n\end{matrix*}\n\right.•
+
+# Limit
+lim = <Shift><Alt>l,Limit,\lim_{• \to •}•
+
+# Math braces
+mbrace = <Shift><Alt>semicolon,Mathbraces,{•}•
+
+# Prime symbol
+prime = <Shift><Alt>asterisk,Prime,\prime •
+
+# Wedge
+wedg = <Shift><Alt>w,Wedge,\; \wedge \; •
+
+# Small vertical bars
+vert = <Shift><Alt>a,Vert_small,\vert • \vert •
+
+# Big vertical bars
+vert_big = <Shift><Alt>v,Vert_big,\Vert • \Vert•
+
+# For all
+fa = ,ForAll,\; \forall \; •
+
+# Exists
+ex = ,Exists,\; \exists \; •
+
+# Implies
+impl = <Shift><Alt>equal,Implies,\Longrightarrow •
+
+# Binomial
+bino = <Shift><Alt>percent,Binomial,\left( \begin{matrix}\n• \\\\n•\n\end{matrix}\right) •
+
+# Such that
+such = <Shift><Alt>colon,SuchThat,\; : \; •
+
+# Overline
+ov = ,Overline,\overline{•}•
+
+# Quad space
+quad = <Shift><Alt>q,Quad,\quad•
+
+# Underline
+under = ,Underline,\underline{•} •
+
+# Set minus
+setm = <Shift><Alt>s,Setminus,\setminus \{ • \} •
+
+# Newline with alignment
+new = <Shift><Alt>n,Newline,\\\n= \; &
+
+# Generic begin-end
+beg = ,Begin,\begin{•}\n•\n\end{•}\n•
+
+# Bar
+ebar = ,Bar,\bar{•}•
+
+# Partial derivative
+par = ,Partial,\partial
+
+# Bracket
+bra = ,Bracket,[ • ]•
+
+# Greek letters
+al = ,alpha,\alpha
+
+be = ,beta,\beta
+
+ga = ,gamma,\gamma
+
+de = ,delta,\delta
+
+ep = ,epsilon,\varepsilon
+
+ze = ,zeta,\zeta
+
+et = ,eta,\eta
+
+te = ,theta,\theta
+
+ka = ,kappa,\kappa
+
+la = ,lambda,\lambda
+
+# Split environment
+split = <Shift><Alt>s,Split,\begin{split}\n•\n= &\n•\n\end{split}
+
